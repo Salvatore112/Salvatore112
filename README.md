@@ -5,6 +5,7 @@ I am a 2nd year Software Engineering student <img src="https://media.giphy.com/m
 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/unacerveza1)
 
+---
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -14,6 +15,7 @@ I am a 2nd year Software Engineering student <img src="https://media.giphy.com/m
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 </p>
 
+---
 
 ### 🔥 &nbsp; My Stats :
 
