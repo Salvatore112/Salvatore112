@@ -1,3 +1,4 @@
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 ### :woman_technologist: &nbsp;About Me :
 
 I am a 2nd year Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
@@ -20,6 +21,5 @@ I am a 2nd year Software Engineering student <img src="https://media.giphy.com/m
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvatore112&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 
