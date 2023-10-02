@@ -21,7 +21,11 @@ I am a 2nd year Software Engineering student <img src="https://media.giphy.com/m
 
 ### 🔥 &nbsp; My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvatore112&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+<th>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvatore112&layout=compact"/>
+</a>
+</th>
 
 
 
