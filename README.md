@@ -21,11 +21,22 @@ I am a 2nd year Software Engineering student <img src="https://media.giphy.com/m
 
 ### 🔥 &nbsp; My Stats :
 
+<table>
+<tr>
+
 <th>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvatore112&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Salvatore112&show_icons=true&theme=github_dark" width="400px"/>
 </a>
 </th>
+
+<th>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvatore112&layout=compact&theme=github_dark"/>
+</a>
+</th>
+</tr>
+</table>
 
 
 
